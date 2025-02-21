@@ -1,4 +1,4 @@
-# School Management REST API
+# EDUPRESS REST API
 
 A powerful Django REST API for managing school courses, teachers, and students. This API provides a comprehensive solution for educational institutions to manage their courses, enrollments, and track student progress.
 
@@ -159,10 +159,7 @@ The project follows PEP 8 style guide for Python code.
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Support
 
-For support, email your-email@example.com or create an issue in the GitHub repository.
+For support, email - mahkamboyevbehruz6@gmail.com or create an issue in the GitHub repository.
